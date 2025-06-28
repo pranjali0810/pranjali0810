@@ -3,10 +3,10 @@ Pranjali Yeshwantrao
 🎓 Final Year | B.E. in Computer Science & Engineering
 📍 Xavier Institute of Engineering, Mumbai
 💡 Focus Areas: Cyber Security | Blockchain | Internet of Things
-
+---
 🌟 About Me :
 Hello! I'm a final-year Computer Science & Engineering student deeply passionate about building impactful tech solutions. With a strong interest in Cyber Security, Blockchain, and IoT, I enjoy solving real-world problems using modern technologies. My goal is to grow as a software professional by continuously learning, collaborating, and contributing to innovative projects.
-
+---
 🛠️ Technical Proficiency
 
 💻 Programming Languages
@@ -26,7 +26,7 @@ MongoDB | Firebase | IPFS
 
 🧰 Tools & Others
 Streamlit | Machine Learning | VS Code
-
+---
 📂 Notable Projects
 
 🚗 Smart Queue-Based Parking System
@@ -43,7 +43,7 @@ Tech Stack: Python, ML, MongoDB, HTML, CSS
 A decentralized platform for team-based project management. Users are classified as task creators or solvers. Tasks are published, tracked, and resolved using blockchain with features like status monitoring, deadlines, rankings, and immutable records.
 
 Tech Stack: ReactJS, NodeJS, Solidity, Web3.js, Truffle, Ganache, Firebase, IPFS
-
+---
 📫 Let's Connect
 📧 Email: pranjaliy08@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/pranjali-yeshwantrao
