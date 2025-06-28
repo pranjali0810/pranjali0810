@@ -4,7 +4,7 @@ Pranjali Yeshwantrao
 📍 Xavier Institute of Engineering, Mumbai
 💡 Focus Areas: Cyber Security | Blockchain | Internet of Things
 
-🌟 About Me
+🌟 About Me :
 Hello! I'm a final-year Computer Science & Engineering student deeply passionate about building impactful tech solutions. With a strong interest in Cyber Security, Blockchain, and IoT, I enjoy solving real-world problems using modern technologies. My goal is to grow as a software professional by continuously learning, collaborating, and contributing to innovative projects.
 
 🛠️ Technical Proficiency
